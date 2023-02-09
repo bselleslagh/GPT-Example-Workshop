@@ -9,7 +9,8 @@ RUN if [ -f "/tmp/conda-tmp/environment.yml" ]; then umask 0002 && /opt/conda/bi
 # [Optional] Uncomment to install a different version of Python than the default
 RUN conda install -y ipykernel \
      && conda install pandas \
-     && pip install gpt-index
+     && pip install gpt-index \
+     && pip install pg8000
 
 # [Optional] Uncomment this section to install additional OS packages.
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \

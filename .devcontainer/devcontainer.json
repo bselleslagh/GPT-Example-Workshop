@@ -14,7 +14,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": ["conda install ipykernel", "conda install pandas"],
+	//"postCreateCommand": ["conda install ipykernel", "conda install pandas"],
 
 	/// Configure tool-specific properties.
 	"customizations": {
