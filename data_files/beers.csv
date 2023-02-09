@@ -1,0 +1,42 @@
+Name,Brewery,Type
+Budweiser,Anheuser-Busch,Lager
+Coors Light,Coors Brewing Company,Light Lager
+Miller Lite,Miller Brewing Company,Light Lager
+Corona Extra,Grupo Modelo,Pale Lager
+Heineken,Heineken Brewery,Pale Lager
+Guinness Draught,Guinness,Stout
+Samuel Adams Boston Lager,Boston Beer Company,Amber Lager
+Stella Artois,Stella Artois Brewery,Pilsner
+Pabst Blue Ribbon,Pabst Brewing Company,Amber Lager
+Blue Moon Belgian White,Blue Moon Brewing Company,Belgian-style Wheat Ale
+IPA,Various,India Pale Ale
+Pilsner Urquell,Pilsner Urquell Brewery,Pilsner
+Leffe Blonde,Leffe Brewery,Belgian-style Pale Ale
+Hoegaarden,Hoegaarden Brewery,Witbier
+Newcastle Brown Ale,Heineken,Brown Ale
+Yuengling Traditional Lager,Yuengling Brewery,Amber Lager
+Fat Tire Amber Ale,New Belgium Brewing,Amber Ale
+Sierra Nevada Pale Ale,Sierra Nevada Brewing Company,Pale Ale
+Amstel Light,Amstel Brewery,Light Lager
+Bass Pale Ale,Bass Brewery,Pale Ale
+Becks,Becks Brewery,Pilsner
+Bell's Two Hearted Ale,Bell's Brewery,India Pale Ale
+Brooklyn Lager,Brooklyn Brewery,Amber Lager
+Lagunitas IPA,Lagunitas Brewing Company,India Pale Ale
+Goose Island IPA,Goose Island Brewery,India Pale Ale
+Dogfish Head 60 Minute IPA,Dogfish Head Brewery,India Pale Ale
+Stone IPA,Stone Brewing,India Pale Ale
+Victory Prima Pils,Victory Brewing Company,Pilsner
+Wild Turkey,Wild Turkey Brewery,Lager
+Jim Beam,Jim Beam Distillery,Lager
+Jack Daniel's,Jack Daniel's Distillery,Lager
+Maker's Mark,Maker's Mark Distillery,Lager
+Bacardi,Bacardi Limited,Rum
+Captain Morgan,Captain Morgan Distillery,Rum
+Smirnoff,Smirnoff,Vodka
+Absolut,Absolut Vodka,Vodka
+Johnnie Walker,Johnnie Walker Distillery,Scotch
+Jameson,Jameson Distillery,Irish Whiskey
+Chivas Regal,Chivas Regal Distillery,Scotch
+Baileys,Baileys Irish Cream,Liqueur
+Jägermeister,Jägermeister Distillery,Herbal Liqueur
