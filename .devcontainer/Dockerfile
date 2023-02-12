@@ -11,7 +11,8 @@ RUN conda install -y ipykernel \
      && conda install pandas \
      && conda install sqlalchemy \
      && pip install openpyxl \
-     && pip install openai
+     && pip install openai \
+     && pip install tiktoken
 
 # [Optional] Uncomment this section to install additional OS packages.
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
