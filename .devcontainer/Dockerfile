@@ -7,12 +7,6 @@ RUN if [ -f "/tmp/conda-tmp/environment.yml" ]; then umask 0002 && /opt/conda/bi
     && rm -rf /tmp/conda-tmp
 
 # [Optional] Uncomment to install a different version of Python than the default
-RUN conda install -y ipykernel \
-     && conda install pandas \
-     && conda install sqlalchemy \
-     && pip install openpyxl \
-     && pip install openai \
-     && pip install tiktoken
 
 # [Optional] Uncomment this section to install additional OS packages.
 # RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
