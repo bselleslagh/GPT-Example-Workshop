@@ -4,3 +4,4 @@ sqlalchemy
 pandas
 tiktoken
 psycopg2
+openpyxl
