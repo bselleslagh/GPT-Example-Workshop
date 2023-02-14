@@ -1,0 +1,6 @@
+ipykernel
+openai
+sqlalchemy
+pandas
+tiktoken
+psycopg2
